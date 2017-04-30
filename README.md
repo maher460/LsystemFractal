@@ -5,6 +5,8 @@ Looking at Shapes
 Project: Making Fractals based on an L system
 Author: Maher Khan 
 
+The l_system can be plugged in as a library to your existing python project and then methods can be called to generate your own fractal based on the L system given. Also, the program has the feature to draw the created fractal using python's turtle.
+
   Examples:
 
     Triad clash of quads (by Maher Khan)
