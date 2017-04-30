@@ -17,7 +17,7 @@ The l_system can be plugged in as a library to your existing python project and 
     Length: 50
    
     or run:
-    main.py "F+F--F+F+F" "F-F-F-F" 3 100 50
+    python main.py "F+F--F+F+F" "F-F-F-F" 3 100 50
 
 
     Tiled Square (by Maher Khan)
@@ -28,7 +28,7 @@ The l_system can be plugged in as a library to your existing python project and 
     Length: 10
     
     or run
-    main.py "F+F--F+F+F" "F-F-F-F" 3 90 10
+    python main.py "F+F--F+F+F" "F-F-F-F" 3 90 10
 
     
     Another Example:
@@ -39,7 +39,7 @@ The l_system can be plugged in as a library to your existing python project and 
     Length: 10
     
     or run
-    main.py "F-F+F+FF-F-F+F" "F-F-F-F" 3 90 10
+    python main.py "F-F+F+FF-F-F+F" "F-F-F-F" 3 90 10
 
     
     Koch Curve:
@@ -50,7 +50,7 @@ The l_system can be plugged in as a library to your existing python project and 
     Length: 4
     
     or run
-    main.py "F+F--F+F" "F-F-F-F-F-F" 3 60 4
+    python main.py "F+F--F+F" "F-F-F-F-F-F" 3 60 4
     
     
     Tree:
@@ -61,4 +61,4 @@ The l_system can be plugged in as a library to your existing python project and 
     Length: 10
     
     or run
-    main.py "F[-F]F[+F]F" "F" 3 60 10
+    python main.py "F[-F]F[+F]F" "F" 3 60 10
